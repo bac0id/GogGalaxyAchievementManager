@@ -4,12 +4,17 @@ GOG Galaxy Achievement Manager (GGAM) is an application used to manage achieveme
 
 **Important Notice:** This application is intended for advanced users. It requires access to sensitive information (clientID, clientSecret, and achievementKeys) that are typically only available to game developers through the GOG Developer Portal. Obtaining this information requires reverse engineering game files, which is a complex process. Therefore, GGAM is currently not suitable for general users.
 
+## Prerequisites
+
+* .NET 8.0
+* [GOG Galaxy SDK](https://docs.gog.com/sdk/) (`GalaxyCSharp.dll` and `GalaxyCSharpGlue.dll`)
+
 ## How to Use
 
 1. Fill in `clientID`, `clientSecret`, and `achievementKeys` in `Program.cs`.
 2. Build and run.
 3. Wait up to 30 seconds until network communication complete.
-4. Check Achievement page in Galaxy.
+4. Check Achievement page in GOG Galaxy.
 
 ## Disclaimer
 
@@ -19,7 +24,7 @@ This application is provided as-is, without any warranty. The developers of GGAM
 
 ## Contributing
 
-Contributions are welcome! If you find a bug or have a suggestion, please open an issue on GitHub. If you would like to contribute code, please submit a pull request.
+Contributions are welcome! If you find a bug or have a suggestion, please open an issue. If you would like to contribute code, please submit a pull request.
 
 ## Screenshots
 
