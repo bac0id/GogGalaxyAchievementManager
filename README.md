@@ -23,4 +23,4 @@ Contributions are welcome! If you find a bug or have a suggestion, please open a
 
 ## Screenshots
 
-![gog-galaxy-screenshot.png](\screenshots\gog-galaxy-screenshot.png)
+![gog-galaxy-screenshot.png](/screenshots/gog-galaxy-screenshot.png)
