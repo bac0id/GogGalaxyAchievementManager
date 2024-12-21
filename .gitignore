@@ -1,0 +1,7 @@
+/src/.vs
+/src/GogGalaxyAchievementManager/bin
+/src/GogGalaxyAchievementManager/obj
+
+Galaxy64.dll
+GalaxyCSharp.dll
+GalaxyCSharpGlue.dll
